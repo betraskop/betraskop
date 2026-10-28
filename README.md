@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @betraskop
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and c++
 - 📫 How to reach me betraskop.iletisim@gmail.com
 
 <!---
